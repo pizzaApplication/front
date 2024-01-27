@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "image": "pizza-01.jpeg",
+    "weight": 555,
+    "title": "Manhattan pizza",
+    "ingredients": "Double portion of mushrooms, mozzarella, pepperoni, Alfredo sauce",
+    "price": 215
+  },
+  {
+    "id": 2,
+    "image": "pizza-02.jpeg",
+    "weight": 500,
+    "title": "Pepperoni pizza",
+    "ingredients": "Mozzarella, pepperoni, tomatoes, Barbecue sauce",
+    "price": 225
+  },
+  {
+    "id": 3,
+    "image": "pizza-03.jpeg",
+    "weight": 560,
+    "title": "Ham and mushroom pizza",
+    "ingredients": "Ham, mushrooms, mozzarella, Pizza sauce",
+    "price": 205
+  },
+  {
+    "id": 4,
+    "image": "pizza-04.jpeg",
+    "weight": 552,
+    "title": "Barbecue pizza",
+    "ingredients": "Chicken, onion, bacon, mushrooms, mozzarella, Barbecue sauce",
+    "price": 255
+  },
+  {
+    "id": 5,
+    "image": "pizza-05.jpeg",
+    "weight": 540,
+    "title": "Carbonara pizza",
+    "ingredients": "Ham, onion, bacon, mushrooms, mozzarella, Alfredo sauce",
+    "price": 250
+  }
+]
